@@ -21,7 +21,7 @@
 ```
 
 ### Installing
-```bash
+```html
 - <b>Linux> (Manually) </b>:
 -   user@localhost~#: apt install git python3 python3-dev python3-asyncio python3-pip
 - <b>Windows (Manually): </b>
